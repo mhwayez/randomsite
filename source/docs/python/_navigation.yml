@@ -1,0 +1,7 @@
+Python:
+    url: docs/python
+    children:
+        Customizing Your Site: docs/java-basic/customizing-your-site
+        Navigation : docs/java-basic/navigation
+        Algolia DocSearch: docs/java-basic/algolia-docsearch
+        Custom 404 Page: docs/java-basic/custom-404-page
